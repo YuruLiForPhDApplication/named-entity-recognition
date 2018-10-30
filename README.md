@@ -4,4 +4,4 @@ Named Entity Recognition (NER) is a classical problem in natural language proces
 
 The steps include document preprocessing, entity extraction. Specially, entity extraction includes two parts: entity mention and entity resolution. Entity mention is used to match naming libraries to specific naming in documents. Entity resolution is to classify the specific names mentioned, and the principle of classification is based on the entity linking method.
 
-![Yuru Li](https://github.com/YuruLiForPhDApplication/named-entity-recognition/blob/master/Named%20Entity%20Recognition.png)
+![YuruLi](https://github.com/YuruLiForPhDApplication/named-entity-recognition/blob/master/Named%20Entity%20Recognition.png)
